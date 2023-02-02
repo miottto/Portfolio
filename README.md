@@ -1,7 +1,3 @@
-# portfolio
-My Data Science Projects
-<p align="left">
-    <img src="/img/python-logo.svg">
 </p>
 
 <p align="center">
@@ -17,6 +13,7 @@ Hi! From here you can access some of my work in data science *projects*, *notebo
 
 ## Articles
 
+*
 
 **skills:** Python, Data Science, Machine Learning
 
