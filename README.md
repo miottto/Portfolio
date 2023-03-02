@@ -11,7 +11,7 @@ Hi! From here you can access some of my work in data science projects, jupyter n
 
 ### Notebooks:
 
-* **Data Exploration on Airbnb Berlin:** https://cutt.ly/s8bD0ZP
+* **Data Exploration on Airbnb Berlin:** https://cutt.ly/m8nJg1P
 
 
 
