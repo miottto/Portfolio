@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-miottto-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-about+-blue.svg)]([https://www.python.org/downloads/release/python-365/](https://www.python.org/about/)) [![GPLv3 license](https://img.shields.io/badge/License-MIT-blue.svg)](https://www.mit.edu/~amini/LICENSE.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/miottto/Portfolio/issues)
+[![author](https://img.shields.io/badge/author-miottto-red.svg)](https://linkedin.com/in/luizgustavomiotto/) [![](https://img.shields.io/badge/python-about-blue.svg)](https://www.python.org/about/) [![GPLv3 license](https://img.shields.io/badge/License-MIT-blue.svg)](https://www.mit.edu/~amini/LICENSE.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/miottto/Portfolio/issues)
 
 
 </p>
