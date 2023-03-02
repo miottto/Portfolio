@@ -4,7 +4,7 @@
 
 This work provides an introductory analysis of Inside Airbnb's data for Berlin . An exploratory approach is conducted, testing some hypothesis, generating insights and producing some data visualizations as it goes. 
 
-You can acess the complete notebook [here](https://github.com/miottto/AirbnbBerlin/blob/8898546c256276651c04f2f09dcb3036d47ac438/Data_Exploration_on_Berlin_Airbnb.ipynb)
+You can acess the complete notebook [here](https://cutt.ly/m8nJg1P)
 
 ### 📋 Quick Keywords
     * Python
