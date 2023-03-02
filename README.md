@@ -6,7 +6,7 @@
 
 Hi! From here you can access some of my work in data science *projects*, *notebooks* and *python* coding. 
 
-## Notebooks:
+### Notebooks:
 
 * **Data Exploration on Airbnb Berlin:** https://github.com/miottto/Airbnb-Berlin
 
