@@ -12,8 +12,7 @@ Hi! From here you can access some of my work in data science *projects*, *notebo
 
 
 
-* **skills:** Python, Data Science, Machine Learning
-
+**skills:** Python, Data Analytics
 
 ### About me:
 
