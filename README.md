@@ -7,7 +7,7 @@
   <img src="banner.jpg" >
 </p>
 
-Hi! From here you can access some of my work in data science *projects*, *notebooks* and *python* coding. 
+Hi! From here you can access some of my work in data science projects, jupyter notebooks and python coding. 
 
 ### Notebooks:
 
