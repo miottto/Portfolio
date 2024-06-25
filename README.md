@@ -19,7 +19,7 @@ Hi! From here you can access some of my work in data science projects, jupyter n
 
 ### About me:
 
-After my graduation in Geography, I started my professional career as an entrepreneur, creating and operating sucessfull bars. I have more than 10 years of experience in this field, working with hospitality from end to end. During this trajectory, product development and the use and manipulation of data aroused great interest in me.
+After my graduation in Geography, I started my professional career as an entrepreneur, creating and operating sucessfull bars. I have more than 10 years of experience in this field, working with hospitality from end to end. During this trajectory, product development and the use of data aroused great interest in me.
 
 
 
